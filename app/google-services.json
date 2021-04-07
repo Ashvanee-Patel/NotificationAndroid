@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "111558368244",
+    "project_id": "notificationapp-a05b1",
+    "storage_bucket": "notificationapp-a05b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111558368244:android:b9cded2e3d1ae835c6f7a1",
+        "android_client_info": {
+          "package_name": "com.ashvanee.notificationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111558368244-oemodtr3kgfakqn2734aoh78dvm1rp4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmWNCciGy9xBqgjCdVuFUizad8lrSHSAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111558368244-oemodtr3kgfakqn2734aoh78dvm1rp4a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
